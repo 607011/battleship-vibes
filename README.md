@@ -20,7 +20,7 @@ Prompts used (Claude 3.7 Sonnet Preview in GitHub Copilot):
 11. Double check that the puzzle is solvable purely by deduction.
 12. Double the number of bow and stern hints. Stick to the rule to not show bow and stern of the same ship.
 
-Version after these prompts: [4249b447cd5c8fbdea9bfb782c098382a3396752](https://github.com/607011/battleship-vibes/commit/4249b447cd5c8fbdea9bfb782c098382a3396752)
+Version after these prompts: [4249b447](https://github.com/607011/battleship-vibes/tree/4249b447cd5c8fbdea9bfb782c098382a3396752)
 
 Switched to Gemini 2.0 Flash Preview:
 
