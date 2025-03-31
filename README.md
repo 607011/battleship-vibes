@@ -1,4 +1,4 @@
-# Battleships
+# Battleship Vibes
 
 **The Battleships Logic Puzzle implemented _by Vibe Coding only_**
 
