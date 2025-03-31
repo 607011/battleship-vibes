@@ -2,6 +2,9 @@
 
 **The Battleships Logic Puzzle implemented _by Vibe Coding only_**
 
+<img width="785" alt="grafik" src="https://github.com/user-attachments/assets/b24a2fca-33bf-493f-a764-30e9a29c9012" />
+
+
 Prompts used (Claude 3.7 Sonnet Preview in GitHub Copilot):
 
 1. I need a web application for the Battleships logic puzzle. 
@@ -18,3 +21,16 @@ Prompts used (Claude 3.7 Sonnet Preview in GitHub Copilot):
 12. Double the number of bow and stern hints. Stick to the rule to not show bow and stern of the same ship.
 
 Version after these prompts: [4249b447cd5c8fbdea9bfb782c098382a3396752](https://github.com/607011/battleship-vibes/commit/4249b447cd5c8fbdea9bfb782c098382a3396752)
+
+Switched to Gemini 2.0 Flash Preview:
+
+13. Double check that the generated puzzles are solvable by deduction without any guessing.
+
+No edits.
+
+Switched to GPT-4o:
+
+14. Double check that the generated puzzles are solvable by deduction without any guessing.
+
+No edits except for a change in debug output.
+
