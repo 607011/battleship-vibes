@@ -33,4 +33,4 @@ Switched to GPT-4o:
 
 No edits except for a change in debug output.
 
-The game is playable, but the generator produces puzzles with multiple solutions, and the puzzles are not garantueed to be solved solely by logical deduction. Further "development" stops here. █
+The game is playable, but the generator produces puzzles with multiple solutions, and the puzzles are not guarantueed to be solved solely by logical deduction. Further “development” stops here. █
