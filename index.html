@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Battleship Puzzle Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Battleship Puzzle</h1>
+        
+        <div class="controls">
+            <button id="new-game">New Game</button>
+            <button id="check-solution">Check Solution</button>
+            <button id="show-solution">Show Solution</button>
+        </div>
+        
+        <div id="grid-container"></div>
+        
+        <div class="fleet-status">
+            <h3>Fleet Status:</h3>
+            <p>Battleship (4 cells): <span id="battleship-count">0/1</span></p>
+            <p>Cruiser (3 cells): <span id="cruiser-count">0/2</span></p>
+            <p>Destroyer (2 cells): <span id="destroyer-count">0/3</span></p>
+            <p>Submarine (1 cell): <span id="submarine-count">0/4</span></p>
+        </div>
+        
+        <div id="status-message" class=""></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
