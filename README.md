@@ -5,7 +5,7 @@
 Prompts used (Claude 3.7 Sonnet Preview in GitHub Copilot):
 
 1. I need a web application for the Battleships logic puzzle. 
-2. Does the code make sure that there is only one solution to the grid? If not, implement the necessary function.
+2. Does the code make sure that there is only one solution? If not, implement the necessary function.
 3. Bow and stern of each ship should be rounded. The submarine should be a circle.
 4. The ships still don't have rounded sterns and bows. The submarine is not a circle.
 5. On "New Game" the roundings of the ships are still visible.
