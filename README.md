@@ -1,6 +1,6 @@
 # Battleship Vibes
 
-**The Battleships Logic Puzzle implemented _by Vibe Coding only_**
+**The Battleships Logic Puzzle implemented _by [Vibe Coding](https://en.wikipedia.org/wiki/Vibe_coding) only_**
 
 <img width="785" alt="grafik" src="https://github.com/user-attachments/assets/b24a2fca-33bf-493f-a764-30e9a29c9012" />
 
