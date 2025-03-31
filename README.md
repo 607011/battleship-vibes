@@ -4,7 +4,6 @@
 
 <img width="785" alt="grafik" src="https://github.com/user-attachments/assets/b24a2fca-33bf-493f-a764-30e9a29c9012" />
 
-
 Prompts used (Claude 3.7 Sonnet Preview in GitHub Copilot):
 
 1. I need a web application for the Battleships logic puzzle. 
@@ -34,3 +33,4 @@ Switched to GPT-4o:
 
 No edits except for a change in debug output.
 
+The game is playable, but the generator produces puzzles with multiple solutions, and the puzzles are not garantueed to be solved solely by logical deduction. Further "development" stops here. █
